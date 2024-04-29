@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CompNfse xmlns="http://www.abrasf.org.br/nfse.xsd" xmlns:ns2="http://www.w3.org/2000/09/xmldsig#">
+    <Nfse versao="2.01">
+        <InfNfse Id="18261097VJVDT11LDKI7R68N9KDT823L">
+            <Numero>12</Numero>
+            <CodigoVerificacao>P01YM9L0H</CodigoVerificacao>
+            <DataEmissao>2023-03-01T12:18:44</DataEmissao>
+            <OutrasInformacoes></OutrasInformacoes>
+            <ValoresNfse>
+                <BaseCalculo>4800.00</BaseCalculo>
+                <Aliquota>0.0</Aliquota>
+                <ValorIss>0.00</ValorIss>
+                <ValorLiquidoNfse>4800.00</ValorLiquidoNfse>
+            </ValoresNfse>
+            <PrestadorServico>
+                <IdentificacaoPrestador>
+                    <CpfCnpj>
+                        <Cnpj>43155136000183</Cnpj>
+                    </CpfCnpj>
+                    <InscricaoMunicipal>76/2021</InscricaoMunicipal>
+                </IdentificacaoPrestador>
+                <RazaoSocial>BRUNO ARAUJO BRAGA NEVES 06791770350</RazaoSocial>
+                <NomeFantasia>LOOPDEV</NomeFantasia>
+                <Endereco>
+                    <Endereco>ESTR FAZ PARQUE MAE RAQUIMA</Endereco>
+                    <Numero>S/N</Numero>
+                    <Complemento></Complemento>
+                    <Bairro>ZONA RURAL</Bairro>
+                    <CodigoMunicipio>2106508</CodigoMunicipio>
+                    <Uf>MA</Uf>
+                    <CodigoPais>1058</CodigoPais>
+                    <Cep>65218000</Cep>
+                </Endereco>
+                <Contato>
+                    <Telefone></Telefone>
+                    <Email></Email>
+                </Contato>
+            </PrestadorServico>
+            <OrgaoGerador>
+                <CodigoMunicipio>2106508</CodigoMunicipio>
+                <Uf>MA</Uf>
+            </OrgaoGerador>
+            <DeclaracaoPrestacaoServico>
+                <InfDeclaracaoPrestacaoServico>
+                    <Competencia>2023-03-01</Competencia>
+                    <Servico>
+                        <Valores>
+                            <ValorServicos>4800.00</ValorServicos>
+                            <ValorDeducoes>0.00</ValorDeducoes>
+                            <ValorPis>0.00</ValorPis>
+                            <ValorCofins>0.00</ValorCofins>
+                            <ValorInss>0.00</ValorInss>
+                            <ValorIr>0.00</ValorIr>
+                            <ValorCsll>0.00</ValorCsll>
+                            <OutrasRetencoes>0.00</OutrasRetencoes>
+                            <ValorIss>0.00</ValorIss>
+                            <Aliquota>0.0</Aliquota>
+                            <DescontoIncondicionado>0.00</DescontoIncondicionado>
+                            <DescontoCondicionado>0.00</DescontoCondicionado>
+                        </Valores>
+                        <IssRetido>2</IssRetido>
+                        <ResponsavelRetencao>1</ResponsavelRetencao>
+                        <ItemListaServico>17.02</ItemListaServico>
+                        <CodigoCnae>8219999</CodigoCnae>
+                        <CodigoTributacaoMunicipio>0000170000002</CodigoTributacaoMunicipio>
+                        <Discriminacao>Prestação de serviços de digitador-4800.0 </Discriminacao>
+                        <CodigoMunicipio>2106508</CodigoMunicipio>
+                        <ExigibilidadeISS>1</ExigibilidadeISS>
+                        <MunicipioIncidencia>2106508</MunicipioIncidencia>
+                    </Servico>
+                    <Prestador>
+                        <CpfCnpj>
+                            <Cnpj>43155136000183</Cnpj>
+                        </CpfCnpj>
+                        <InscricaoMunicipal>000475</InscricaoMunicipal>
+                    </Prestador>
+                    <Tomador>
+                        <IdentificacaoTomador>
+                            <CpfCnpj>
+<Cnpj>01239608000136</Cnpj>
+                            </CpfCnpj>
+                        </IdentificacaoTomador>
+                        <RazaoSocial>INFOWAY TECNOLOGIA E GESTAO EM SAUDE LTDA</RazaoSocial>
+                        <Endereco>
+                            <Endereco>AV UNIVERSITARIA</Endereco>
+                            <Numero>750</Numero>
+                            <Bairro>fatima</Bairro>
+                            <CodigoMunicipio>2211001</CodigoMunicipio>
+                            <Uf>PI</Uf>
+                            <CodigoPais>1058</CodigoPais>
+                            <Cep>64049494</Cep>
+                        </Endereco>
+                        <Contato/>
+                    </Tomador>
+                    <RegimeEspecialTributacao>5</RegimeEspecialTributacao>
+                    <OptanteSimplesNacional>1</OptanteSimplesNacional>
+                    <IncentivoFiscal>2</IncentivoFiscal>
+                </InfDeclaracaoPrestacaoServico>
+            </DeclaracaoPrestacaoServico>
+        </InfNfse>
+    </Nfse>
+</CompNfse>
